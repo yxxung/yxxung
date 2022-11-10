@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=JiYoung%20Park&fontSize=70&animation=scaleIn)
+
+<div align="center">
+
+#
+
+![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxung&show_icons=true&theme=tokyonight&layout=compact)
+</div>
