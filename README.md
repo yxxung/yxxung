@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yxxung/yxxung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=JiYoung%20Park&fontSize=70&animation=scaleIn)
