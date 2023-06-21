@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 
 <h5>🛠 Tech Stack</h5>
 
-
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white">
 
 <br><br>
 <h5>💬 Solved.ac</h5>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loveus011)](https://solved.ac/loveus011/)
  
- <br><br>
+ <br>
+ 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=100&section=footer)
