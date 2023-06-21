@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JiYoung's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=200&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JiYoung's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=FFFFFF)
   
 <h3>👩‍💻JIYOUNG PARK</h3>  
 <h4>Hi!😄 I'm FrontEnd-Developer</h4>
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white">
  <br><br>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=100&section=footer)
