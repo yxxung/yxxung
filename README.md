@@ -1,40 +1,27 @@
-<!--
-**yxxung/yxxung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Jiyoung Park. <img src="https://user-images.githubusercontent.com/80435616/151690320-5f13ba50-5d87-43d4-b254-939addcd0bdb.gif" width="25px" height="25px">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=200&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JiYoung's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=FFFFFF)
-  
-<h3>👩‍💻JIYOUNG PARK</h3>  
-<h4>Hi!😄 I'm FrontEnd-Developer</h4>
+I'm interested in front-end development. 
 
-<br>
-<p>🔭 멋쟁이 사자처럼 프론트엔드 스쿨 6기 2023.05.24 ~ </p>
+<br />
+<br />
 
-<br><br>
+**Experiences**
 
-<h5>🛠 Tech Stack</h5>
+- 멋쟁이 사자처럼 프론트엔드 스쿨 6기 2023.05.24 ~
 
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<br/>
 
- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white">
+**Tech Stack**
 
-<br><br>
-<h5>💬 Solved.ac</h5>
+<p>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+ <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loveus011)](https://solved.ac/loveus011/)
- 
- <br>
- 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=100&section=footer)
+</p>
