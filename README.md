@@ -9,7 +9,7 @@ I'm interested in front-end development.
 
 **Experiences**
 
-- 멋쟁이 사자처럼 프론트엔드 스쿨 6기 2023.05.24 ~
+- 멋쟁이 사자처럼 프론트엔드 스쿨 6기 2023.05.24 ~ 2023.09.26
 
 <br/>
 
