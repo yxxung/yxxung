@@ -5,9 +5,6 @@
 I'm interested in front-end development. 
 
 <br />
-<br />
-<br/>
-
 **Tech Stack**
 
 <p>
